@@ -4,7 +4,7 @@ JongYun Lim, Software Engineer
  
  
 
-> Contacts 
+> Contacts \n
 vavau1993@naver.com 
 
 > 지원 직무  
