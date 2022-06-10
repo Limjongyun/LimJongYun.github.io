@@ -8,13 +8,13 @@ JongYun Lim, Software Engineer
 > 
 vavau1993@naver.com 
 
-##지원 직무  
+## 지원 직무  
 
 Junior Backend Engineer  
 
  
 
-##보유 역량 요약 
+## 보유 역량 요약 
 
 Backend Engineering 
 
@@ -58,7 +58,7 @@ JIRA등 업무 툴 사용 가능
 
  
 
-##Careers  
+## Careers  
 
  
  
@@ -75,7 +75,7 @@ LG U+ MSA 차세대 프로젝트
 
       
 
-< BackEnd > 
+> < BackEnd > 
 
 > 공직선거법 제공 요청 및 결과 개발 
 
@@ -95,7 +95,7 @@ Legacy 소스에서 Ibatis로 이루어져 있는 동적쿼리를   Java Stream 
 
 초소형중계기 설치정보의 경우에는 대외의 타회사 Ntoss에게 정보를 보내줘야 하기에 Kafka Topic 을 신청 양식을 작성한 후 Pub을 보내 해당하는 데이터를 전송하는 건을 개발했습니다. 
 
-< FrontEnd > 
+> < FrontEnd > 
 
 솔루션 PID 로 이루어진 Legacy 화면을 WebSquare로 바꾸는 작업, 위의 백엔드 API를 만들고, 웹스퀘어를 통하여 화면개발했습니다. 
 
@@ -106,7 +106,7 @@ Legacy 소스에서 Ibatis로 이루어져 있는 동적쿼리를   Java Stream 
 
 월드소프트 /  선임연구원 @ 개발 1팀 (2020.02 ~ 2021.10) 
 
-< BackEnd & FrontEnd > 
+> < BackEnd & FrontEnd > 
 
 > 근태관리 시스템 
 
