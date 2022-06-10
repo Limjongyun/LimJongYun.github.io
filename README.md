@@ -4,20 +4,20 @@ JongYun Lim, Software Engineer
  
  
 
-## Contacts 
+# Contacts 
 
 이름 : 임종윤
 이메일 : vavau1993@naver.com 
 
-## 지원 직무  
+# 지원 직무  
 
 Junior Backend Engineer  
 
  
 
-## 보유 역량 요약 
+# 보유 역량 요약 
 
-# Backend Engineering 
+## Backend Engineering 
 
 9개의 개인, 협업 프로젝트 개발 경험 
 
@@ -59,14 +59,14 @@ JIRA등 업무 툴 사용 가능
 
  
 
-## Careers  
+# Careers  
 
  
  
 
 IEA/ Junior Backend Engineer @ LGCNS_모바일 가입팀 협력사(2021.12~ 현재) 
 
-LG U+ MSA 차세대 프로젝트 
+## LG U+ MSA 차세대 프로젝트 
 
 기존의 하나의 프로젝트(Monolithic Architecture)  JAVA와 Oracle JDBC(Ibatis)로 이루어진 Legacy 소스를  마이크로 서비스 아키텍처(MSA)로 바꾸고 도메인주도설계(DDD)로 프로젝트를 구성한 것에 SpringBoot,Spring Data JPA를 이용하였으며, 대규모 데이터 이동을 필요로 할때는 Kafka를 이용하여 구성하였습니다.   
 
@@ -76,7 +76,7 @@ LG U+ MSA 차세대 프로젝트
 
       
 
-# < BackEnd > 
+> < BackEnd > 
 
 > 공직선거법 제공 요청 및 결과 개발 
 
@@ -96,7 +96,7 @@ Legacy 소스에서 Ibatis로 이루어져 있는 동적쿼리를   Java Stream 
 
 초소형중계기 설치정보의 경우에는 대외의 타회사 Ntoss에게 정보를 보내줘야 하기에 Kafka Topic 을 신청 양식을 작성한 후 Pub을 보내 해당하는 데이터를 전송하는 건을 개발했습니다. 
 
-# < FrontEnd > 
+## < FrontEnd > 
 
 솔루션 PID 로 이루어진 Legacy 화면을 WebSquare로 바꾸는 작업, 위의 백엔드 API를 만들고, 웹스퀘어를 통하여 화면개발했습니다. 
 
@@ -105,9 +105,9 @@ Legacy 소스에서 Ibatis로 이루어져 있는 동적쿼리를   Java Stream 
 단위테스트 케이스를 따로 만들어 해당하는 기능이 빼먹지 않았는지 하나씩 검토하면서 개발했습니다. 
  
 
-월드소프트 /  선임연구원 @ 개발 1팀 (2020.02 ~ 2021.10) 
+## 월드소프트 /  선임연구원 @ 개발 1팀 (2020.02 ~ 2021.10) 
 
-# < BackEnd & FrontEnd > 
+> < BackEnd & FrontEnd > 
 
 > 근태관리 시스템 
 
