@@ -64,9 +64,9 @@ JIRA등 업무 툴 사용 가능
  
  
 
-IEA/ Junior Backend Engineer @ LGCNS_모바일 가입팀 협력사(2021.12~ 현재) 
+## IEA/ Junior Backend Engineer @ LGCNS_모바일 가입팀 협력사(2021.12~ 현재) 
 
-## LG U+ MSA 차세대 프로젝트 
+ LG U+ MSA 차세대 프로젝트 
 
 기존의 하나의 프로젝트(Monolithic Architecture)  JAVA와 Oracle JDBC(Ibatis)로 이루어진 Legacy 소스를  마이크로 서비스 아키텍처(MSA)로 바꾸고 도메인주도설계(DDD)로 프로젝트를 구성한 것에 SpringBoot,Spring Data JPA를 이용하였으며, 대규모 데이터 이동을 필요로 할때는 Kafka를 이용하여 구성하였습니다.   
 
