@@ -4,17 +4,17 @@ JongYun Lim, Software Engineer
  
  
 
-> Contacts 
+## Contacts 
 > 
 vavau1993@naver.com 
 
-> 지원 직무  
+##지원 직무  
 
 Junior Backend Engineer  
 
  
 
-> 보유 역량 요약 
+##보유 역량 요약 
 
 Backend Engineering 
 
@@ -58,7 +58,7 @@ JIRA등 업무 툴 사용 가능
 
  
 
->Careers  
+##Careers  
 
  
  
