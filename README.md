@@ -5,8 +5,9 @@ JongYun Lim, Software Engineer
  
 
 ## Contacts 
-> 
-vavau1993@naver.com 
+
+이름 : 임종윤
+이메일 : vavau1993@naver.com 
 
 ## 지원 직무  
 
