@@ -25,14 +25,23 @@ Backend Engineering
 •	Rocky Linux에서 Web(Nginx),Was, Jenkins, MariaDB 서버 구축.
 
 •	대외API서버 프로젝트 개발 및 구축.
+
 •	HR시스템 DB 설계.
+
 •	GPS를 이용해서 출퇴근 등록 시스템 개발.
+
 •	Swagger Rest Docs를 이용한 REST API 문서화 구축.
+
 •	MSA, Agile 프로젝트 참여.
+
 •	서비스 개발 후, 실 사용자에게 배포 및 유지보수.
+
 •	Junit5, DevOnTester 등을 이용한 테스트 코드 수행 경험
+
 •	JIRA등 업무 툴 사용 가능
+
 •	Spring framework, JPA or MyBatis	기반으로	Backend API 서버 자체 개발 가능
+
 •	Jquery,JSP,JavaScript,WebSquare 로 화면 개발 가능
 
  
@@ -46,28 +55,42 @@ Backend Engineering
 # Careers  
 
 ## GS_ITM/ Backend Engineer @ HR Saasx팀 공통파트(2022.09~)
+
 UstraHr (인사관리시스템 프로젝트)
 -	다국어 시스템 개발 및 구축.
+
 -	WEB(Nginx), WAS ,JENKINS ,MariaDB 서버 RockyLinux 환경에서 서버 구축.
+
 -	대외에서 사용할 API 개발 및 구축.
+
 -	GPS 출퇴근 시스템 개발.
 
 >	HR 시스템 다국어 개발
+
 •	HR시스템을 다국어로 사용하기 위해서 Spring MessageSource 를 이용해서 언어선택에 따라 값을 저장하여 화면  다국어 처리를 하였습니다. 공통테이블, 메뉴 테이블등 DB는 다국어 테이블을 설계 및 생성하여 다국어 처리를 하였습니다. 
+
 •	추가적으로 사용자가 해당 Properties 값에 있는 것을 원하지 않을 수도 있기에, Properties 값을 대신할 DB 테이블을 따로 만들어서 DB테이블의 값이 있으면 DB테이블 값을 먼저 보고, 없으면 Properties 바라보게끔 코어 쪽 수정하였습니다.
 
 >	Web , Was, Jenkins , MariaDB 개발,운영 서버 구축
+
 •	Nginx 에서 ProxyPath 로 Was 접근하게끔 개발, SSL 적용하였습니다.
+
 •	GitLab 과 연동한 Jenkins 를 이용하여 Was의 Application 자동 CI/CD  할 수 있도록 구축하였습니다.
+
 •	Mariadb 구축 및 데이터 마이그레이션하였습니다.
+
 •	GitLab 과 Teams 연동하여 팀원들과 GitLog 공유하게끔 구축하였습니다.
 
 >	대외 API 프로젝트 개발
+
 •	다른 부서의 프로젝트와 연동을 위하여 대외API 구축하였습니다.
+
 •	SpringSecurity을 이용하여 특정한 URL 로 접속할 경우,ID 와 PW가 맞을 경우 JWT토큰 생성 후, 생성 된 토큰을 header에 물게하고, 그 토큰이 유효하면 다른 API들을 CRUD  할 수 있게끔 개발 하였습니다.
+
 •	CORS 문제를 @CrossOrigin 을 사용하여 특정 URL 만 접근 가능하도록 하였습니다.
 
 >	GPS 를 이용하여 출퇴근 시스템 개발
+
 •	관리자가 세콤 및 캡스를 이용하지 않고 GPS 를 이용한다고 설정할 경우, 출퇴근 목표지점을 선택하고, 범위를  설정해서, 해당 지점한 목표 및 범위 안에 들어왔을 경우 출퇴근 데이터가 들어가게끔 개발하였습니다.
 
  
