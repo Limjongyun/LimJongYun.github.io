@@ -11,7 +11,7 @@ JongYun Lim, Software Engineer
 
 # 지원 직무  
 
-Junior Backend Engineer  
+Backend Engineer  
 
  
 
