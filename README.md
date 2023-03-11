@@ -21,7 +21,9 @@ Junior Backend Engineer
 
 Backend Engineering
 •	Ustra HR 시스템 다국어 기능 시스템 개발.
+
 •	Rocky Linux에서 Web(Nginx),Was, Jenkins, MariaDB 서버 구축.
+
 •	대외API서버 프로젝트 개발 및 구축.
 •	HR시스템 DB 설계.
 •	GPS를 이용해서 출퇴근 등록 시스템 개발.
