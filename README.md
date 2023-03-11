@@ -95,7 +95,7 @@ UstraHr (인사관리시스템 프로젝트)
 
  
 
-## IEA/ Junior Backend Engineer @ LGCNS_모바일 가입팀 협력사(2021.12~ 현재) 
+## IEA/ Junior Backend Engineer @ LGCNS_모바일 가입팀 협력사(2021.12~ 2022.09) 
 
  LG U+ MSA 차세대 프로젝트 
 
